@@ -27,6 +27,19 @@ robot-dog-mechanical-design/
 ├── report/
 └── README.md
 ```
+## Robot Design
+
+### Perspective View
+![Perspective](images/perspective-view.png)
+
+### Front View
+![Front](images/front-view.png)
+
+### Side View
+![Side](images/side-view.png)
+
+### Top View
+![Top](images/top-view.png)
 
 ## Author
 **Layal Aljohani**
